@@ -8,4 +8,6 @@ Additional skills include familiarity with the Git workflow and VSCode.
 
 
 Personal Reflection:
-(After project is completed)
+This project was fun to do for Thanksgiving, and it definitely
+helped me get used to the Git workflow. Can't wait for the next
+one!

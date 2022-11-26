@@ -15,6 +15,7 @@ h1, h3{
     color:rgb(84, 25, 139);
     text-align: center;
     background-color: rgba(184, 53, 74, 0.486);
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 
 h3 {

@@ -18,3 +18,7 @@ h3 {
     background-color: #18539667;
 }
 
+ul, ol, p {
+    color:rgb(240, 12, 58);
+    font-weight: 500;
+}

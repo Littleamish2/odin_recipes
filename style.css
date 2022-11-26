@@ -8,8 +8,13 @@ img {
     height: auto;
 }
 
-h1 {
+h1, h3{
     color:rgb(84, 25, 139);
     text-align: center;
+    background-color: rgba(184, 53, 74, 0.486);
+}
+
+h3 {
+    background-color: #18539667;
 }
 
